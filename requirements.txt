@@ -5,3 +5,5 @@ Pillow
 numpy
 gunicorn
 requests
+joblib
+scikit-learn
