@@ -9,7 +9,7 @@ Creation of a web application for skin cancer detection/prevention for Jedha Boo
 - On the other hand, the number of mobile phones is growing exponentially in the French society.
 
 ## The idea
-Make use of technology to solve a societal problem and encourage prevention measures, namely towards persons living in places with limited access to care.
+Make use of technology to solve a societal problem, educate people about potential diseases and encourage prevention measures, namely towards persons living in places with limited access to care.
 
 ## The technology
 Combine computer vision, a branch of artificial intelligence, with mobile technology to build an application which will help in detecting and preventing skin cancer.
